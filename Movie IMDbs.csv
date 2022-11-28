@@ -1,0 +1,201 @@
+Ranking,Title,Year,Runtime,IMDb,Box_Office(M)
+1,Avatar,2009,162,7.8,760.51
+2,Avengers: Endgame,2019,181,8.4,858.37
+3,Titanic,1997,194,7.9,659.33
+4,Star Wars: Episode VII - The Force Awakens,2015,138,7.8,936.66
+5,Avengers: Infinity War,2018,149,8.4,678.82
+6,Spider-Man: No Way Home,2021,148,8.3,804.75
+7,Jurassic World,2015,124,6.9,652.27
+8,The Lion King,2019,118,6.8,543.64
+9,The Avengers,2012,143,8.0,623.28
+10,Furious 7,2015,137,7.1,353.01
+11,Top Gun: Maverick,2022,130,8.4,
+12,Frozen II,2019,103,6.8,477.37
+13,Avengers: Age of Ultron,2015,141,7.3,459.01
+14,Black Panther,2018,134,7.3,700.06
+15,Harry Potter and the Deathly Hallows: Part 2,2011,130,8.1,381.01
+16,Star Wars: Episode VIII - The Last Jedi,2017,152,6.9,620.18
+17,Jurassic World: Fallen Kingdom,2018,128,6.1,417.72
+18,Frozen,2013,102,7.4,400.74
+19,Beauty and the Beast,2017,129,7.1,504.01
+20,Incredibles 2,2018,118,7.6,608.58
+21,The Fate of the Furious,2017,136,6.6,226.01
+22,Iron Man Three,2013,130,7.1,409.01
+23,Minions,2015,91,6.4,336.05
+24,Captain America: Civil War,2016,147,7.8,408.08
+25,Aquaman,2018,143,6.8,335.06
+26,The Lord of the Rings: The Return of the King,2003,201,9.0,377.85
+27,Spider-Man: Far from Home,2019,129,7.4,390.53
+28,Captain Marvel,2019,123,6.8,426.83
+29,Transformers: Dark of the Moon,2011,154,6.2,352.39
+30,Jurassic Park,1993,127,8.2,402.45
+31,Skyfall,2012,143,7.8,304.36
+32,Transformers: Age of Extinction,2014,165,5.6,245.44
+33,The Dark Knight Rises,2012,164,8.4,448.14
+34,Joker,2019,122,8.4,335.45
+35,Star Wars: The Rise Of Skywalker,2019,141,6.5,515.20
+36,Toy Story 4,2019,100,7.7,434.04
+37,Toy Story 3,2010,103,8.3,415.00
+38,Pirates of the Caribbean: Dead Man's Chest,2006,151,7.3,423.32
+39,The Lion King,1994,88,8.5,422.78
+40,Rogue One: A Star Wars Story,2016,133,7.8,532.18
+41,Aladdin,2019,128,6.9,355.56
+42,Pirates of the Caribbean: On Stranger Tides,2011,136,6.6,241.06
+43,Despicable Me 3,2017,89,6.2,264.62
+44,Finding Dory,2016,97,7.3,486.30
+45,Star Wars: Episode I - The Phantom Menace,1999,136,6.5,474.54
+46,Alice in Wonderland,2010,108,6.4,334.19
+47,Zootopia,2016,108,8.0,341.27
+48,Harry Potter and the Sorcerer's Stone,2001,152,7.6,317.58
+49,The Hobbit: An Unexpected Journey,2012,169,7.8,303.00
+50,The Dark Knight,2008,152,9.0,534.86
+51,Jurassic World: Dominion,2022,147,5.7,
+52,Harry Potter and the Deathly Hallows: Part 1,2010,146,7.7,295.98
+53,Despicable Me 2,2013,98,7.3,368.06
+54,The Jungle Book,2016,106,7.4,364.00
+55,Jumanji: Welcome to the Jungle,2017,119,6.9,404.52
+56,The Hobbit: The Battle of the Five Armies,2014,144,7.4,255.12
+57,Pirates of the Caribbean: At World's End,2007,169,7.1,309.42
+58,The Hobbit: The Desolation of Smaug,2013,161,7.8,258.37
+59,Doctor Strange in the Multiverse of Madness,2022,126,6.9,
+60,The Lord of the Rings: The Two Towers,2002,179,8.8,342.55
+61,Harry Potter and the Order of the Phoenix,2007,138,7.5,292.00
+62,Finding Nemo,2003,100,8.2,380.84
+63,Harry Potter and the Half-Blood Prince,2009,153,7.6,301.96
+64,Minions: The Rise of Gru,2022,87,6.6,
+65,Shrek 2,2004,93,7.3,436.47
+66,Bohemian Rhapsody,2018,134,7.9,216.43
+67,The Battle at Lake Changjin,2021,176,5.4,0.34
+68,The Lord of the Rings: The Fellowship of the Ring,2001,178,8.8,315.54
+69,Harry Potter and the Goblet of Fire,2005,157,7.7,290.01
+70,Spider-Man 3,2007,139,6.3,336.53
+71,Ice Age: Dawn of the Dinosaurs,2009,94,6.9,196.57
+72,No Time to Die,2021,163,7.3,160.87
+73,Spectre,2015,148,6.8,200.07
+74,Spider-Man: Homecoming,2017,133,7.4,334.20
+75,Harry Potter and the Chamber of Secrets,2002,161,7.4,261.99
+76,Ice Age: Continental Drift,2012,88,6.5,161.32
+77,The Secret Life of Pets,2016,87,6.5,368.38
+78,Batman v Superman: Dawn of Justice,2016,151,6.4,330.36
+79,Wolf Warrior 2,2017,123,5.9,2.72
+80,Star Wars: Episode III - Revenge of the Sith,2005,140,7.6,380.26
+81,The Hunger Games: Catching Fire,2013,146,7.5,424.67
+82,Guardians of the Galaxy Vol. 2,2017,136,7.6,389.81
+83,Inside Out,2015,95,8.2,356.46
+84,Venom,2018,112,6.6,213.52
+85,Thor: Ragnarok,2017,130,7.9,315.06
+86,Inception,2010,148,8.8,292.58
+87,Transformers: Revenge of the Fallen,2009,149,5.9,402.11
+88,The Twilight Saga: Breaking Dawn - Part 2,2012,115,5.5,292.30
+89,Spider-Man,2002,121,7.4,403.71
+90,Wonder Woman,2017,141,7.4,412.56
+91,"Hi, Mom",2021,128,7.0,
+92,Independence Day,1996,145,7.0,306.17
+93,Fantastic Beasts and Where to Find Them,2016,132,7.2,234.04
+94,Shrek the Third,2007,93,6.1,320.71
+95,Coco,2017,105,8.4,209.73
+96,Jumanji: The Next Level,2019,123,6.7,316.83
+97,Harry Potter and the Prisoner of Azkaban,2004,142,7.9,249.36
+98,Pirates of the Caribbean: Dead Men Tell No Tales,2017,129,6.5,172.56
+99,E.T. the Extra-Terrestrial,1982,115,7.9,435.11
+100,Mission: Impossible - Fallout,2018,147,7.7,220.16
+101,2012,2009,158,5.8,166.11
+102,Indiana Jones and the Kingdom of the Crystal Skull,2008,122,6.2,317.10
+103,Spider-Man 2,2004,127,7.4,373.59
+104,Furious 6,2013,130,7.0,238.68
+105,Deadpool 2,2018,119,7.7,324.59
+106,Deadpool,2016,108,8.0,363.07
+107,Star Wars,1977,121,8.6,322.74
+108,Interstellar,2014,169,8.6,188.02
+109,Guardians of the Galaxy,2014,121,8.0,333.18
+110,The Batman,2022,176,7.9,
+111,Thor: Love and Thunder,2022,118,6.3,
+112,The Da Vinci Code,2006,149,6.6,217.54
+113,Fast & Furious Presents: Hobbs & Shaw,2019,137,6.5,173.96
+114,Maleficent,2014,97,6.9,241.41
+115,The Amazing Spider-Man,2012,136,6.9,262.03
+116,The Hunger Games: Mockingjay - Part 1,2014,123,6.6,337.14
+117,Shrek Forever After,2010,95,6.3,238.37
+118,Madagascar 3: Europe's Most Wanted,2012,93,6.8,216.39
+119,Suicide Squad,2016,123,5.9,325.10
+120,X-Men: Days of Future Past,2014,132,7.9,233.92
+121,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,143,6.9,291.71
+122,Monsters University,2013,104,7.2,268.49
+123,The Matrix Reloaded,2003,138,7.2,281.49
+124,Up,2009,96,8.3,293.00
+125,Ne Zha,2019,110,7.4,3.70
+126,F9: The Fast Saga,2021,143,5.2,173.20
+127,Gravity,2013,91,7.7,274.09
+128,Captain America: The Winter Soldier,2014,136,7.8,259.77
+129,The Twilight Saga: Breaking Dawn - Part 1,2011,117,4.9,281.29
+130,The Twilight Saga: New Moon,2009,130,4.7,296.62
+131,Dawn of the Planet of the Apes,2014,130,7.6,208.55
+132,Transformers,2007,144,7.0,319.25
+133,The Amazing Spider-Man 2,2014,142,6.6,202.85
+134,It,2017,135,7.3,327.48
+135,The Wandering Earth,2019,125,5.9,5.88
+136,The Twilight Saga: Eclipse,2010,124,5.0,300.53
+137,Mission: Impossible - Ghost Protocol,2011,132,7.4,209.40
+138,The Hunger Games,2012,142,7.2,408.01
+139,Detective Chinatown 3,2021,136,5.6,
+140,Mission: Impossible - Rogue Nation,2015,131,7.4,195.04
+141,Forrest Gump,1994,142,8.8,330.25
+142,Doctor Strange,2016,115,7.5,232.64
+143,The Sixth Sense,1999,107,8.2,293.51
+144,Man of Steel,2013,143,7.1,291.05
+145,Ice Age: The Meltdown,2006,91,6.8,195.33
+146,Kung Fu Panda 2,2011,90,7.2,165.25
+147,Moana,2016,107,7.6,248.76
+148,Justice League,2017,120,6.1,229.02
+149,Big Hero 6,2014,102,7.8,222.53
+150,Fantastic Beasts: The Crimes of Grindelwald,2018,134,6.5,159.56
+151,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,8.1,305.41
+152,Star Wars: Episode II - Attack of the Clones,2002,142,6.6,310.68
+153,The Hunger Games: Mockingjay - Part 2,2015,137,6.5,281.72
+154,Thor: The Dark World,2013,112,6.8,206.36
+155,Sing,2016,108,7.1,270.40
+156,Kung Fu Panda,2008,92,7.6,215.43
+157,The Incredibles,2004,115,8.0,261.44
+158,The Martian,2015,144,8.0,228.43
+159,Hancock,2008,92,6.4,227.95
+160,Water Gate Bridge,2022,153,5.5,
+161,Fast Five,2011,130,7.3,209.84
+162,Men in Black 3,2012,106,6.8,179.02
+163,Iron Man 2,2010,124,6.9,312.43
+164,Ratatouille,2007,111,8.1,206.45
+165,Ant-Man and the Wasp,2018,118,7.0,216.65
+166,How to Train Your Dragon 2,2014,102,7.8,177.00
+167,Logan,2017,137,8.1,226.28
+168,The Lost World: Jurassic Park,1997,129,6.5,229.09
+169,Casino Royale,2006,144,8.0,167.45
+170,The Passion of the Christ,2004,127,7.2,370.78
+171,Mamma Mia!,2008,108,6.5,144.13
+172,Life of Pi,2012,127,7.9,124.99
+173,Transformers: The Last Knight,2017,154,5.2,130.17
+174,Madagascar: Escape 2 Africa,2008,89,6.6,180.01
+175,War of the Worlds,2005,116,6.5,234.28
+176,Tangled,2010,100,7.7,200.82
+177,Quantum of Solace,2008,106,6.6,168.37
+178,Men in Black,1997,98,7.3,250.69
+179,The Croods,2013,98,7.2,187.17
+180,The Hangover Part II,2011,102,6.4,254.46
+181,Iron Man,2008,126,7.9,318.41
+182,I Am Legend,2007,101,7.2,256.39
+183,Ready Player One,2018,140,7.4,137.69
+184,"Monsters, Inc.",2001,92,8.1,289.92
+185,Operation Red Sea,2018,142,6.6,1.54
+186,Night at the Museum,2006,108,6.4,250.86
+187,Fifty Shades of Grey,2015,125,4.1,166.17
+188,Kong: Skull Island,2017,118,6.6,168.05
+189,The Smurfs,2011,103,5.4,142.61
+190,Cars 2,2011,106,6.2,191.45
+191,King Kong,2005,187,7.2,218.08
+192,Puss in Boots,2011,90,6.6,149.26
+193,The Mermaid,2016,94,6.2,3.23
+194,Armageddon,1998,151,6.7,201.57
+195,The Day After Tomorrow,2004,124,6.4,186.74
+196,Ted,2012,106,6.9,218.82
+197,American Sniper,2014,133,7.3,350.13
+198,Mission: Impossible II,2000,123,6.1,215.41
+199,Detective Chinatown 2,2018,121,6.1,1.98
+200,X-Men: Apocalypse,2016,144,6.9,155.44
